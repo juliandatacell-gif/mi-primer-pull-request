@@ -10,4 +10,4 @@ crear una rama, hacer un cambio, y proponerlo para que sea revisado y aceptado.
 ## Objetivo
 
 Aprender a colaborar en proyectos de codigo de forma ordenada, tal como lo hacen
-los programdores en el mundo real.
+los programadores en el mundo real.
